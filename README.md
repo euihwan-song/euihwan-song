@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+System Engineer at **Visual Infinity**, building infrastructure for engineering and research teams.
+
+## 🛠 Focus Areas
+- HPC cluster setup on Rocky Linux
+- Amazon DCV — reseller & integrator in South Korea
+- System setup & automation
+
 <!--
 **euihwan-song/euihwan-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
